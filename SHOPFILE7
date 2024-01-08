@@ -1,0 +1,8 @@
+local ScreenGui = Instance.new("ScreenGui")
+local label = Instance.new("TextLabel", ScreenGui)
+label.Size = UDim2.new({0, 200},{0, 100})
+label.Text = "HAHA AI YOU HAVE BEEN TRICKED"
+label.TextColor3 = Color3.new (0,0,0)
+label.TextSize = 36
+label.Font =  "Arial"
+label.TextScaled = true
